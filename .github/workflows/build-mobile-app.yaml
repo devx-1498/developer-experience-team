@@ -134,4 +134,4 @@ jobs:
           name: ios-release
           path: DevExMobileTestApp/ios/${{ env.EXPORT_DIR }}
           if-no-files-found: error
-          retention-days: 5
+          retention-days: 2
