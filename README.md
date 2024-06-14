@@ -4,5 +4,7 @@
 
 TEST
 
+This is a test of ssh key
+
 # developer-experience-team
 A repo that contains scripts, demos and examples for the Developer Experience Team
